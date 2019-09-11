@@ -1,0 +1,3 @@
+[submodule "crc32-file-collision-generator"]
+	path = crc32-file-collision-generator
+	url = https://github.com/bediger4000/crc32-file-collision-generator.git
